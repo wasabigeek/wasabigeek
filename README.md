@@ -1,7 +1,7 @@
-### Did you know that wasabi 🥕 shares the same family as the cabbage 🥬 ?
-And now that I have your attention, a bit about me:
-- Backend engineer, though for some reason most of my personal projects focus on the frontend 🤔
-- In previous (work)lives, I've dabbled in Product and Marketing
-- A game / board game I've been enjoying recently: [Card of Darkness](https://www.polygon.com/reviews/2019/9/30/20891752/card-of-darkness-review-apple-arcade) / [Cubirds](https://boardgamegeek.com/boardgame/245476/cubirds)
+**Did you know that wasabi 🥕 shares the same family as the cabbage 🥬 ?**
 
-I blog at [wasabigeek.com](https://wasabigeek.com/).
+Here are some other facts:
+- I'm a backend engineer most comfortable with Rails, though for some reason most of my personal projects focus on React 🤔
+- In previous (work)lives, I've dabbled in Product and Marketing
+- Some of my favourite board games: [Splendor](https://boardgamegeek.com/boardgame/148228/splendor), [Race for the Galaxy](https://boardgamegeek.com/boardgame/28143/race-galaxy), [Agricola](https://boardgamegeek.com/boardgame/31260/agricola), [Railroad Ink](https://boardgamegeek.com/boardgame/245654/railroad-ink-deep-blue-edition)
+- I blog at [wasabigeek.com](https://wasabigeek.com/)
